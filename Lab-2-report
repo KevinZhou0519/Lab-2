@@ -1,10 +1,10 @@
-![Image](lab2_Hello.png)
+//![Image](lab2_Hello.png)
 The method handleRequest is being called. This code has one argument which is url. It takes in the url and sees if the path contains 
 "/add message", if so, it will get Query and split it with "=". Then it will check if there is an s before the equal sign, then, for
 this specific picture, it will check if the number is zero, which is checking if <string> has been called. If the number is not zero,
 it will store the parameter after = which is "Hello" and num into a return statement  and let num plus one. Finally, return return_string
 
-![Image](lab2_2nd.png)
+//![Image](lab2_2nd.png)
 The method handleRequest is being called. This code has one argument which is url. It takes in the url and sees if the path contains 
 "/add message", if so, it will get Query and split it with "=". Then it will check if there is an s before the equal sign, then, for
 this specific picture, it will check if the number is zero, which is checking if <string> has been called. If the number is not zero,
