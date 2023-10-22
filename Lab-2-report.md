@@ -66,3 +66,13 @@ class NumberServer {
         Server.start(port, new Handler());
     }
 }
+
+
+
+Part2
+![part2_1](lab2_part2_1.png)
+![part2_2](lab2_part2_2.png)
+![part2_3](lab2_part2_3.png)
+![part2_4](lab2_part2_4.png)
+![part2_5](lab2_part2_5.png)
+![part2_6](lab2_part2_6.png)
