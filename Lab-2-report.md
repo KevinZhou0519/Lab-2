@@ -70,6 +70,7 @@ class NumberServer {
 
 
 Part2
+![part2_p](part2_private.png)
 ![part2_1](lab2_part2_1.png)
 ![part2_2](lab2_part2_2.png)
 ![part2_3](lab2_part2_3.png)
