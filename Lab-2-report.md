@@ -70,10 +70,13 @@ class NumberServer {
 
 
 Part2
-private:
+private:-----------------------------------------------
+
 ![part2_p](part2_private.png)
 
-Public:
+Public:-------------------------------------------------
+
+
 ![part2_2](lab2_part2_2.png)
 ![part2_3](lab2_part2_3.png)
 ![part2_4](lab2_part2_4.png)
