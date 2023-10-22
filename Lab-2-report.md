@@ -82,3 +82,10 @@ Public:-------------------------------------------------
 ![part2_4](lab2_part2_4.png)
 ![part2_5](lab2_part2_5.png)
 ![part2_6](lab2_part2_6.png)
+
+
+
+
+
+part3
+Form lab 2 and 3 I learned how to host a website using github and how to change the website base on the url people entered. I also learned how to connect to school's account and how to copy it so that I do not need to use password to login. 
