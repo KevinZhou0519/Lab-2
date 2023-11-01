@@ -1,15 +1,15 @@
 ![Image_1st](lab2_Hello.png)
-The method handleRequest is being called. This code has one argument which is url. It takes in the url and sees if the path contains 
-"/add message", if so, it will get Query and split it with "=". Then it will check if there is an s before the equal sign, then, for
-this specific picture, it will check if the number is zero, which is checking if <string> has been called. If the number is not zero,
-it will store the parameter after = which is "Hello" and num into a return statement  and let num plus one. Finally, return return_string
+The method 'handleRequest' is being called. This code has one argument which is 'url'. It takes in the 'url' and sees if the path contains 
+'/add message', if so, it will get Query and split it with '='. Then it will check if there is an s before the equal sign, then, for
+this specific picture, it will check if the number is zero, which is checking if '<string>' has been called. If the number is not zero,
+it will store the parameter after '=' which is 'Hello' and num into a return statement  and let num plus one. Finally, return 'return_string'
 
 
 ![Image_2nd](lab2_2nd.png)
-The method handleRequest is being called. This code has one argument which is url. It takes in the url and sees if the path contains 
-"/add message", if so, it will get Query and split it with "=". Then it will check if there is an s before the equal sign, then, for
-this specific picture, it will check if the number is zero, which is checking if <string> has been called. If the number is not zero,
-it will store the parameter after = which is "How are you" and num into a return statement  and let num plus one. Finally, return return_string
+The method 'handleRequest' is being called. This code has one argument which is 'url'. It takes in the 'url' and sees if the path contains 
+'/add message', if so, it will get Query and split it with '='. Then it will check if there is an s before the equal sign, then, for
+this specific picture, it will check if the number is zero, which is checking if '<string>' has been called. If the number is not zero,
+it will store the parameter after '=' which is "How are you" and num into a return statement  and let num plus one. Finally, return 'return_string'
 
 
 
@@ -72,16 +72,13 @@ class NumberServer {
 Part2
 private:-----------------------------------------------
 
-![part2_p](part2_private.png)
+![part2_p](part2_pri.png)
 
 Public:-------------------------------------------------
 
 
-![part2_2](lab2_part2_2.png)
-![part2_3](lab2_part2_3.png)
-![part2_4](lab2_part2_4.png)
-![part2_5](lab2_part2_5.png)
-![part2_6](lab2_part2_6.png)
+![part2](part2_pub.png)
+
 
 
 
