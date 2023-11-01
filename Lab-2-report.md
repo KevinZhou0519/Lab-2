@@ -72,12 +72,12 @@ class NumberServer {
 Part2
 private:-----------------------------------------------
 
-![part2_p](part2_pri.png)
+![part2-private](part2-pri.png)
 
 Public:-------------------------------------------------
 
 
-![part2](part2_pub.png)
+![part2-public](part2_pub.png)
 
 
 
